@@ -28,5 +28,4 @@ const index = ({ toggle, isOpen }) => {
         </SidebarContainter>
     )
 }
-
 export default index
